@@ -1,20 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=%20Cryptocurrency%20Market%20Data%20Analytics&fontSize=30&&color=957DAD&fontColor=ffffff&fontAlignY=35)
 
-## Indice
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Tabla de contenido</summary>
-  <ol>
-    <li><a href="#Indice">Índice</a></li>
-    <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#Objetivo">Objetivo</a></li>
-    <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#ETL-EDA">ETL-EDA</a></li>
-    <li><a href="#Conclusiones relevantes">Conclusiones relevantes</a></li>
-    <li><a href="#KPIs">KPIs</a></li>
-  </ol>
-</details>
-
 ## Introducción
 Este es mi proyecto de Data Analytics para la carrera de Data Science en la academia Soy Henry. 
 
